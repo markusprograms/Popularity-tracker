@@ -1,4 +1,5 @@
 # Popularity tracker
+![screenshot](https://github.com/user-attachments/assets/3cb96efa-1ccb-4ff8-928b-0f5fa1fd9565)
 This simple PHP script prints the number of your **Github subscribers** and the total amount of stars received on all repositories. 
 
 ## Configuration
